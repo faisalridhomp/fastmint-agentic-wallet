@@ -1,6 +1,7 @@
-# fastmint
+# fastmint — free-mint racer for the Binance Agentic Wallet (baw)
 
-First-come-first-served free-mint race toolkit for BNB Chain.
+First-come-first-served free-mint race toolkit for BNB Chain, built for the
+Binance Agentic Wallet (`baw`).
 
 `fastmint` claims free agent-ID mints at the open second. It prepares everything
 before the window — calldata, wallet session, RPC warm-up — so the only step
