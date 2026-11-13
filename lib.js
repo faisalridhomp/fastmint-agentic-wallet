@@ -1,6 +1,6 @@
 // fastmint shared helpers: RPC pool (race), WIB logging, error decoding, baw runner, Agent ID lookup.
 'use strict';
-const ethers = require('./ethers.umd.min.js');
+const ethers = require('ethers');
 const { execFile } = require('child_process');
 const fs = require('fs');
 const path = require('path');
